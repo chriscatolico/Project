@@ -19,5 +19,8 @@ Primary Files:
 Output Files:
 1. BoxPlot.png: boxplot produced by DataAnalysis.ipynb
 2. ScatterPlot.png: scatterplot produced by DataAnalysis.ipynb
+3. CombinedMaps.png: Heat map of housing prices overlayed with API scores (best viewed in Jupyter Notebook)
+4. HousingPriceHeatMap.png: Heat map of just housing prices. Gives good overview of how housing prices vary by region (best viewed in Jupyter Notebook)
+5. SchoolRatingSymbolMapwithRatingOutput.png: Data points of just School Ratings (best viewed in Jupyter Notebook)
 
 
