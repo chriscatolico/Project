@@ -23,4 +23,6 @@ Output Files:
 4. HousingPriceHeatMap.png: Heat map of just housing prices. Gives good overview of how housing prices vary by region (best viewed in Jupyter Notebook)
 5. SchoolRatingSymbolMapwithRatingOutput.png: Data points of just School Ratings (best viewed in Jupyter Notebook)
 
+Final Presentation
+1. Presentation.pptx: Presentation delivered to class 4/4/2019
 
